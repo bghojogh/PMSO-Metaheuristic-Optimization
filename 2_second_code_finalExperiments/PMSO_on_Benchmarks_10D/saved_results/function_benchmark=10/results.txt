@@ -1,0 +1,10 @@
+best_error: 
+   22.9036
+
+mean_error: 
+   49.1304
+
+standard_deviation_error: 
+   15.1889
+
+>> 

@@ -1,0 +1,40 @@
+Function: 13, Run: 1
+Function: 13, Run: 2
+Function: 13, Run: 3
+Function: 13, Run: 4
+Function: 13, Run: 5
+Function: 13, Run: 6
+Function: 13, Run: 7
+Function: 13, Run: 8
+Function: 13, Run: 9
+Function: 13, Run: 10
+Function: 13, Run: 11
+Function: 13, Run: 12
+Function: 13, Run: 13
+Function: 13, Run: 14
+Function: 13, Run: 15
+Function: 13, Run: 16
+Function: 13, Run: 17
+Function: 13, Run: 18
+Function: 13, Run: 19
+Function: 13, Run: 20
+Function: 13, Run: 21
+Function: 13, Run: 22
+Function: 13, Run: 23
+Function: 13, Run: 24
+Function: 13, Run: 25
+Function: 13, Run: 26
+Function: 13, Run: 27
+Function: 13, Run: 28
+Function: 13, Run: 29
+Function: 13, Run: 30
+best_error: 
+    0.8125
+
+mean_error: 
+    2.9741
+
+standard_deviation_error: 
+    1.7176
+
+>> 
